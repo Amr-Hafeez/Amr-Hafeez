@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.facebook.com/AmrKhalidOmar/">
+  <a href="https://www.linkedin.com/in/amr-khalid/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/amr-khalid/">
+  <a href="https://www.facebook.com/AmrKhalidOmar/">
     <img src="https://img.shields.io/badge/Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   
