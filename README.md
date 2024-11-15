@@ -56,3 +56,7 @@ I am a Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Amr-Hafeez&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Hafeez&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Amr-Hafeez&show_icons=true&include_all_commits=true&count_private=true&hide_title=true" alt="Amr Hafeez" />
+  </div>
